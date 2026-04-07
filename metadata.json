@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Editor",
+  "description": "An intuitive web application that allows you to upload an image and use text prompts to make creative edits. Powered by the Gemini API, you can seamlessly adjust, modify, or completely transform your images and then download or share your creations.",
+  "requestFramePermissions": []
+}
